@@ -3,7 +3,7 @@ Aplicativo mobile para controle de finanças com uma assistente virtual Financei
 
 Tecnologias Utilizadas:
 
-- Expo CLI
+- React Native com Expo CLI
 - Firestore
 - Dialogflow
 - Firebase Authentication
