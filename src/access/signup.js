@@ -61,8 +61,9 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   logo:{
-    width: 300,
-    height: 300
+    width: 400,
+    height: 130,
+    top: -40,
   },
   esqueceu: {
     position: 'relative',
@@ -71,8 +72,8 @@ const styles = StyleSheet.create({
   input: {
     position: 'relative',
     top: -55,
-    width: 270,
-    height: 35,
+    width: 200,
+    height: 25,
     backgroundColor: '#E7FFF6',
     borderTopLeftRadius: 28,
     borderTopRightRadius: 28,
@@ -87,13 +88,13 @@ const styles = StyleSheet.create({
     position:'relative',
     top: -54,
     marginTop: 15,
-    width: 270,
-    height: 35,
+    width: 200,
+    height: 25,
     backgroundColor: '#15CDE7',
-    borderTopLeftRadius: 25,
-    borderTopRightRadius: 25,
-    borderBottomLeftRadius: 25,
-    borderBottomRightRadius: 25,
+    borderTopLeftRadius: 22,
+    borderTopRightRadius: 22,
+    borderBottomLeftRadius: 22,
+    borderBottomRightRadius: 22,
     justifyContent: 'center',
     alignItems: 'center'
   },
